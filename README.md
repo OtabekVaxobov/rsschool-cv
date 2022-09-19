@@ -1,1 +1,1 @@
-(#task1)[https://otabekvaxobov.github.io/rsschool-cv/cv]
+[#task1](https://otabekvaxobov.github.io/rsschool-cv/cv)
